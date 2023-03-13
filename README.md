@@ -1,11 +1,5 @@
 ### Project Details
-- **Name**: Sprint 3: Server
 - **Description**: The goal in this sprint is to develop a web API Server in Java that handles CSV and weather requests, and cache the weather data read from NWS API
-- **Author and Contribution**:
-    - Yiyun Lu (ylu168): User Story 2, 3
-    - Xingyu Liu (xliu205): User Story 1
-- **Implementation Time**: 30h
-- **Repo**: https://github.com/cs0320-s2023/sprint-3-xliu205-ylu168
 
 
 ### Design Choices
